@@ -1,0 +1,15 @@
+/home/berserker/Documents/Projectos C#/NewTalents/NewTalents/bin/Debug/net7.0/NewTalents
+/home/berserker/Documents/Projectos C#/NewTalents/NewTalents/bin/Debug/net7.0/NewTalents.deps.json
+/home/berserker/Documents/Projectos C#/NewTalents/NewTalents/bin/Debug/net7.0/NewTalents.runtimeconfig.json
+/home/berserker/Documents/Projectos C#/NewTalents/NewTalents/bin/Debug/net7.0/NewTalents.dll
+/home/berserker/Documents/Projectos C#/NewTalents/NewTalents/bin/Debug/net7.0/NewTalents.pdb
+/home/berserker/Documents/Projectos C#/NewTalents/NewTalents/obj/Debug/net7.0/NewTalents.csproj.AssemblyReference.cache
+/home/berserker/Documents/Projectos C#/NewTalents/NewTalents/obj/Debug/net7.0/NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+/home/berserker/Documents/Projectos C#/NewTalents/NewTalents/obj/Debug/net7.0/NewTalents.AssemblyInfoInputs.cache
+/home/berserker/Documents/Projectos C#/NewTalents/NewTalents/obj/Debug/net7.0/NewTalents.AssemblyInfo.cs
+/home/berserker/Documents/Projectos C#/NewTalents/NewTalents/obj/Debug/net7.0/NewTalents.csproj.CoreCompileInputs.cache
+/home/berserker/Documents/Projectos C#/NewTalents/NewTalents/obj/Debug/net7.0/NewTalents.dll
+/home/berserker/Documents/Projectos C#/NewTalents/NewTalents/obj/Debug/net7.0/refint/NewTalents.dll
+/home/berserker/Documents/Projectos C#/NewTalents/NewTalents/obj/Debug/net7.0/NewTalents.pdb
+/home/berserker/Documents/Projectos C#/NewTalents/NewTalents/obj/Debug/net7.0/NewTalents.genruntimeconfig.cache
+/home/berserker/Documents/Projectos C#/NewTalents/NewTalents/obj/Debug/net7.0/ref/NewTalents.dll
